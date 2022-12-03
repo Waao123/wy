@@ -5,5 +5,6 @@ public class HelloWord {
         System.out.println("hello git");
         System.out.println("hello hot-fix");
         System.out.println("change");
+        System.out.println("test ignore");
     }
 }
